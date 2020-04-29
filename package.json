@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/SM91wilson/Homework12/issues"
   },
-  "homepage": "https://github.com/SM91wilson/Homework12#readme"
+  "homepage": "https://github.com/SM91wilson/Homework12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
 }
